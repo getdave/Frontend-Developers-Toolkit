@@ -30,7 +30,7 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 
 ###Device/Browser Testing
 
-* [Browserling](http://browserling.com/) - interactive cross-browser testing via <code><canvas></code> and Javascript.
+* [Browserling](http://browserling.com/) - interactive cross-browser testing via Canvas and Javascript.
 * [Browser Stack](http://www.browserstack.com/) - live web-based cross browser testing for desktop and mobile devices.
 * [Mogo Test](http://mogotest.com/) - automated web consistency testing comparison tool. Automatically checks for geometric layout changes across a suite of browsers.
 * [Adobe Shadow](http://labs.adobe.com/technologies/shadow/) - inspect and preview web workflows on iOS and Android devices.
