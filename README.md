@@ -28,6 +28,14 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Grunt](https://github.com/cowboy/grunt) - a task-based command line build tool for JavaScript projects.
 * [Codekit](http://incident57.com/codekit/) - a gui interface which helps you work faster by combining Sass, Minifaction, Image Compression, Live Reload, JSHint/Lint and much more!
 
+###Device/Browser Testing
+
+* [Browserling](http://browserling.com/) - interactive cross-browser testing via <canvas> and Javascript.
+* [Browser Stack](http://www.browserstack.com/) - live web-based cross browser testing for desktop and mobile devices.
+* [Mogo Test](http://mogotest.com/) - automated web consistency testing comparison tool. Automatically checks for geometric layout changes across a suite of browsers.
+* [Adobe Shadow](http://labs.adobe.com/technologies/shadow/) - inspect and preview web workflows on iOS and Android devices.
+* [Remote Tilt](http://remote-tilt.com/) - emulate device motion events in your test page which can either be a regular browser or even a mobile emulator.
+
 ###Editors
 
 * [Sublime Text 2](http://www.sublimetext.com/2) - the fastest and most incredible code editor. Boasts an active community and plugin ecosystem.
