@@ -28,6 +28,11 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Grunt](https://github.com/cowboy/grunt) - a task-based command line build tool for JavaScript projects.
 * [Codekit](http://incident57.com/codekit/) - a gui interface which helps you work faster by combining Sass, Minifaction, Image Compression, Live Reload, JSHint/Lint and much more!
 
+###Editors
+
+* [Sublime Text 2](http://www.sublimetext.com/2) - the fastest and most incredible code editor. Boasts an active community and plugin ecosystem.
+* [Coda](http://www.panic.com/coda/) - thr all in one editor for MacOS. Combines text editor + file transfer + svn + css + terminal + books + more!
+
 
 ###Responsive Images
 
