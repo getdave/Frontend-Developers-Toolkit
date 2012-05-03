@@ -9,6 +9,13 @@ A resource collecting a suite of useful tools and technologies for front end web
 * [320andup](https://github.com/malarkey/320andup) - the &lsquo;tiny screen first&rsquo; responsive boilerplate.
 * [Zurb Foundation](http://foundation.zurb.com/) - An easy to use, powerful, and flexible framework for building prototypes and production code on any kind of device.
 
+###CSS Preprocessors
+
+* [Sass](http://sass-lang.com/) - an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more.
+* [Compass](http://compass-style.org/) - works with Sass to bring you standarised mixins and advanced tools (including auto spriting!).
+* [Less](http://lesscss.org/) - LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. Runs on client and server sides.
+* [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
+
 ###Responsive Images
 
 * [Foresight.js](https://github.com/adamdbradley/foresight.js) - tell if the user's device is capable of viewing high-resolution images and judge if the user's device currently has a fast enough network connection to receive them.
