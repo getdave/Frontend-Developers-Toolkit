@@ -61,3 +61,4 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 
 * [Entity Lookup](http://leftlogic.com/projects/entity-lookup) - allows you to quickly find the HTML entity based on how it looks.
 * [Media Query Bookmarklet](http://seesparkbox.com/foundry/media_query_bookmarklet) - shows which Media Queries are currently active on your page inline and in realtime.
+* [HTML5 Outliner Bookmarklet](http://code.google.com/p/h5o/) - a bookmarklet to test your HTML5 outlines in the browser.
