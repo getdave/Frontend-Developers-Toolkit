@@ -16,6 +16,11 @@ A resource collecting a suite of useful tools and technologies for front end web
 * [Less](http://lesscss.org/) - LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. Runs on client and server sides.
 * [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
+###Javascript Frameworks
+
+A excellent list of javascript frameworks is maintained over at [www.remotesynthesis.com](http://remotesynthesis.com/skins/remotesynthesis/jsFrameworks.cfm).
+
+
 ###Responsive Images
 
 * [Foresight.js](https://github.com/adamdbradley/foresight.js) - tell if the user's device is capable of viewing high-resolution images and judge if the user's device currently has a fast enough network connection to receive them.
