@@ -3,6 +3,10 @@ Frontend Developers' Toolkit
 
 A resource collecting a suite of useful tools and technologies for front end web development.
 
+### Code Standards
+* [Isobar Code Standards & Best Practice](http://na.isobar.com/standards/) - document which contains guidelines for front end coding for you/you and your team.
+
+
 ###Boilerplates
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/) - the professional frontend developers's base HTML/CSS/JS template for a fast, robust and future-safe site.
