@@ -5,6 +5,9 @@ A resource collecting a suite of useful tools and technologies for front end web
 
 ### Code Standards
 * [Isobar Code Standards & Best Practice](http://na.isobar.com/standards/) - document which contains guidelines for front end coding for you/you and your team.
+* [CSS Style Guide](https://github.com/csswizardry/CSS-Guidelines/blob/master/CSS%20Guidelines.md) - an excellent high-level overview of CSS best practices
+
+#### Documentation Tools
 * [Style Docco](http://jacobrask.github.com/styledocco/) - auto generate style guides from CSS comments using Node.js
 * [PEARS](http://pea.rs/) - collect, test, and experiment with interface pattern pairings of CSS & HTML                                                  - 
 
