@@ -62,7 +62,7 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Google Charts](https://developers.google.com/chart/) - interactive charts and data tools based on SVG and HTML5.
 * [d3.js](http://d3js.org/) - advanced visualisation JavaScript library for manipulating documents based on data. 
 * [Crossfilter](http://square.github.com/crossfilter/) - not strictly a charting library, but rather a JavaScript library for exploring large multivariate datasets in the browser. Works well with d3.js.
-
+* [YUI Charts](http://yuilibrary.com/yui/docs/charts/) - provides a JavaScript API for visualizing data in a variety of formats across a browser test baseline. Accessibility support built in!
 
 
 ###Misc Tools & Bookmarklets
