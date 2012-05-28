@@ -64,7 +64,11 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Crossfilter](http://square.github.com/crossfilter/) - not strictly a charting library, but rather a JavaScript library for exploring large multivariate datasets in the browser. Works well with d3.js.
 * [YUI Charts](http://yuilibrary.com/yui/docs/charts/) - provides a JavaScript API for visualizing data in a variety of formats across a browser test baseline. Accessibility support built in!
 
-
+###HTML Email
+* [Fractal](https://www.getfractal.com/) - build your email just like a web page using CSS, and Fractal will make it work in all major email clients.
+* [Inline Styler](http://inlinestyler.torchboxapps.com/styler/) - converts CSS rules into inline style attributes.
+* [Litmus](http://litmus.com/) - online email testing application.
+                               - 
 ###Misc Tools & Bookmarklets
 
 * [Entity Lookup](http://leftlogic.com/projects/entity-lookup) - allows you to quickly find the HTML entity based on how it looks.
