@@ -56,7 +56,7 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 ###Responsive 
 
 ####Responsive Grids
-*[Responsify.it](http://app.responsify.it/) - custom responsive grid generator. 
+* [Responsify.it](http://app.responsify.it/) - custom responsive grid generator. 
 
 ####Responsive Image Solutions
 
