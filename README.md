@@ -53,7 +53,12 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Coda](http://www.panic.com/coda/) - thr all in one editor for MacOS. Combines text editor + file transfer + svn + css + terminal + books + more!
 
 
-###Responsive Images
+###Responsive 
+
+####Responsive Grids
+*[Responsify.it](http://app.responsify.it/) - custom responsive grid generator. 
+
+####Responsive Image Solutions
 
 * [Foresight.js](https://github.com/adamdbradley/foresight.js) - tell if the user's device is capable of viewing high-resolution images and judge if the user's device currently has a fast enough network connection to receive them.
 * [Responsive Images](https://github.com/filamentgroup/Responsive-Images) - deliver optimized, contextual image sizes in responsive layouts that utilize dramatically different image sizes at different resolutions.
