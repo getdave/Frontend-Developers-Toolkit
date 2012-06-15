@@ -34,6 +34,13 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Jasmine](http://pivotal.github.com/jasmine/) - Jasmine is a behavior-driven development framework for testing your JavaScript code.
 * [JSCheck](http://www.jscheck.org/) - JSCheck is a specification-driven testing tool. From a description of the properties of a system, function, or object, it will generate random test cases attempting to prove those properties, and then report its findings.
 
+### Performance
+
+* [Yahoo Web Performance Guidelines](http://developer.yahoo.com/performance/rules.html) -  Yahoo's best practices for making web pages fast. The list includes 35 best practices divided into 7 categories.
+* [SpriteMe](http://spriteme.org/) - a bookmarklet that runs on any page, finds background images, groups images into sprites, generates the sprite, recomputes CSS background-positions
+injects the sprite into the current page.
+
+
 ###Process automation
 
 * [Grunt](https://github.com/cowboy/grunt) - a task-based command line build tool for JavaScript projects.
