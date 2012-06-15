@@ -24,15 +24,22 @@ A resource collecting a suite of useful tools and technologies for front end web
 * [Less](http://lesscss.org/) - LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. Runs on client and server sides.
 * [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
-###Javascript Frameworks
+###Javascript
+
+####Javascript Frameworks
 
 A excellent list of javascript frameworks is maintained over at [www.remotesynthesis.com](http://remotesynthesis.com/skins/remotesynthesis/jsFrameworks.cfm).
 
-###Javascript Unit Testing
+####Javascript Unit Testing
 
 * [QUnit](http://docs.jquery.com/QUnit) - QUnit is a powerful, easy-to-use, JavaScript test suite. It's used by the jQuery project to test its code and plugins but is capable of testing any generic JavaScript code (and even capable of testing JavaScript code on the server-side).
 * [Jasmine](http://pivotal.github.com/jasmine/) - Jasmine is a behavior-driven development framework for testing your JavaScript code.
 * [JSCheck](http://www.jscheck.org/) - JSCheck is a specification-driven testing tool. From a description of the properties of a system, function, or object, it will generate random test cases attempting to prove those properties, and then report its findings.
+
+####Plugins
+
+* [ScrollPath](http://joelb.me/scrollpath/) - create custom scroll paths for navigating via scroll.
+
 
 ### Performance
 
