@@ -88,6 +88,7 @@ injects the sprite into the current page.
 
 ###HTML Email
 
+* [HTML Email Boilerplate](http://htmlemailboilerplate.com/) - a template, absent of design or layout, that will help you avoid some of the major rendering problems with the most common email clients.
 * [Fractal](https://www.getfractal.com/) - build your email just like a web page using CSS, and Fractal will make it work in all major email clients.
 * [Inline Styler](http://inlinestyler.torchboxapps.com/styler/) - converts CSS rules into inline style attributes.
 * [Litmus](http://litmus.com/) - online email testing application.
