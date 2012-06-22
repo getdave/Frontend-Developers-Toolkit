@@ -39,6 +39,7 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 ####Plugins
 
 * [ScrollPath](http://joelb.me/scrollpath/) - create custom scroll paths for navigating via scroll.
+* [Chosen](http://harvesthq.github.com/chosen/) - create super enhanced select and multiple select form UI's.
 
 
 ### Performance
