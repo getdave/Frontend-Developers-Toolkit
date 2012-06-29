@@ -40,6 +40,7 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 
 * [ScrollPath](http://joelb.me/scrollpath/) - create custom scroll paths for navigating via scroll.
 * [Chosen](http://harvesthq.github.com/chosen/) - create super enhanced select and multiple select form UI's.
+* [Skrollr](https://github.com/Prinzhorn/skrollr) - super powered parallax CSS transition lib. No jQuery dependencies
 
 
 ### Performance
