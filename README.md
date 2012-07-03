@@ -30,6 +30,10 @@ A resource collecting a suite of useful tools and technologies for front end web
 
 A excellent list of javascript frameworks is maintained over at [www.remotesynthesis.com](http://remotesynthesis.com/skins/remotesynthesis/jsFrameworks.cfm).
 
+####Mobile Frameworks
+
+[Quojs](http://quojs.tapquo.com/) - micro, mobile JS library with great gesture support.
+
 ####Javascript Unit Testing
 
 * [QUnit](http://docs.jquery.com/QUnit) - QUnit is a powerful, easy-to-use, JavaScript test suite. It's used by the jQuery project to test its code and plugins but is capable of testing any generic JavaScript code (and even capable of testing JavaScript code on the server-side).
@@ -48,6 +52,7 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Yahoo Web Performance Guidelines](http://developer.yahoo.com/performance/rules.html) -  Yahoo's best practices for making web pages fast. The list includes 35 best practices divided into 7 categories.
 * [SpriteMe](http://spriteme.org/) - a bookmarklet that runs on any page, finds background images, groups images into sprites, generates the sprite, recomputes CSS background-positions
 injects the sprite into the current page.
+* [H5BP Node Build Script](https://github.com/h5bp/node-build-script) - the Node port of the HTML5 Build Script
 
 
 ###Process automation
