@@ -107,3 +107,4 @@ injects the sprite into the current page.
 * [Media Query Bookmarklet](http://seesparkbox.com/foundry/media_query_bookmarklet) - shows which Media Queries are currently active on your page inline and in realtime.
 * [HTML5 Outliner Bookmarklet](http://code.google.com/p/h5o/) - a bookmarklet to test your HTML5 outlines in the browser.
 * [FixieJS](http://fixiejs.com/) - an open source tool that automatically adds filler content to HTML documents.
+* [Pano2Vr](http://gardengnomesoftware.com/pano2vr.php) - create HTML5-based virtual tours and panorama's.
