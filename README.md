@@ -79,6 +79,9 @@ injects the sprite into the current page.
 ####Responsive Grids
 * [Responsify.it](http://app.responsify.it/) - custom responsive grid generator. 
 
+####Responsive Layout Patterns
+* [Off Canvas Swipe](https://github.com/torkiljohnsen/swipe) - a proof of concept for "off canvas" mobile navigation using Zepto or jQuery.
+
 ####Responsive Image Solutions
 
 * [Foresight.js](https://github.com/adamdbradley/foresight.js) - tell if the user's device is capable of viewing high-resolution images and judge if the user's device currently has a fast enough network connection to receive them.
