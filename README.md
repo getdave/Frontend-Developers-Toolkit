@@ -46,6 +46,7 @@ A excellent list of javascript frameworks is maintained over at [www.remotesynth
 * [Chosen](http://harvesthq.github.com/chosen/) - create super enhanced select and multiple select form UI's.
 * [Skrollr](https://github.com/Prinzhorn/skrollr) - super powered parallax CSS transition lib. No jQuery dependencies
 * [Butterfly Accessible Lightbox](http://irama.org/web/dhtml/butterfly/) - accessible Lightbox solution
+* [Sequence CSS3 Animated Slidehosw](https://github.com/IanLunn/Sequence) - a Responsive Slider with Advanced CSS3 Transitions
 
 ### Performance
 
