@@ -72,7 +72,7 @@ injects the sprite into the current page.
 ###Editors
 
 * [Sublime Text 2](http://www.sublimetext.com/2) - the fastest and most incredible code editor. Boasts an active community and plugin ecosystem.
-* [Coda](http://www.panic.com/coda/) - thr all in one editor for MacOS. Combines text editor + file transfer + svn + css + terminal + books + more!
+* [Coda](http://www.panic.com/coda/) - the all in one editor for MacOS. Combines text editor + file transfer + svn + css + terminal + books + more!
 
 
 ###Responsive 
